@@ -9,7 +9,7 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.15.3",
     "mongoose": "^4.11.1",
